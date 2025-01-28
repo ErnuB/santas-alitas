@@ -6,7 +6,6 @@ const menuCategorias = [
   { id: "papa", nombre: "Papa rellena", observaciones: "" },
   { id: "ensalada", nombre: "Ensaladas", observaciones: "" },
   { id: "nuevo", nombre: "Lo + Nuevo", observaciones: "" },
-  { id: "kids", nombre: "Combo Kid's", observaciones: "" },
   { id: "alitas", nombre: "Alitas", observaciones: "" },
   { id: "boneless", nombre: "Boneless", observaciones: "" },
   { id: "bebidas", nombre: "Cervezas y bebidas", observaciones: "" },

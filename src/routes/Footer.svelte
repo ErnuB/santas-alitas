@@ -1,8 +1,8 @@
 <div class="m-20">.</div>
-<footer class="fixed bottom-0 pt-1 pb-2 w-full z-50 bg-white">
-  <div class="flex justify-evenly items-center">
+<footer class="fixed bottom-0 pt-1 pb-2 w-full z-30 bg-white">
+  <!-- <div class="flex justify-evenly items-center">
       <p class="text-2xl font-kenyan-coffee text-center">SERVICIO A DOMICILIO</p>
-  </div>
+  </div> -->
   <div class="flex flex-col justify-evenly items-center">
     <p class="font-chunkfive text-2xl">Sucursales:</p>
     <div class="flex justify-around items-center w-full">

@@ -2,7 +2,7 @@ const menuItems = [
   {
     categoria: "snacks",
     nombre: "Salchipulpos",
-    descripcion: "Doraditos trozos de salchicha acompanados con catsup.",
+    descripcion: "Doraditos trozos de salchicha acompañados con catsup.",
     precio: " 74",
     imagen: "/img/salchipulpos.jpg",
     observaciones: "(240gr)"
@@ -18,7 +18,7 @@ const menuItems = [
   {
     categoria: "snacks",
     nombre: "Aros de cebolla",
-    descripcion: "Crujientes aros de cebolla empznizada servidos cn aderezo ranch.",
+    descripcion: "Crujientes aros de cebolla empznizada servidos con aderezo ranch.",
     precio: " 87",
     imagen: "/img/aros.jpg",
     observaciones: "(8pz)"
@@ -34,15 +34,23 @@ const menuItems = [
   {
     categoria: "snacks",
     nombre: "Nuggets",
-    descripcion: "Suavecistos trozas de pollo con cubierta crujiente.",
-    precio: " 94",
+    descripcion: "Suavecistos trozos de pollo con cubierta crujiente.",
+    precio: " 80",
     imagen: "/img/nuggets.jpg",
     observaciones: "(10pz)"
   },
   {
     categoria: "snacks",
+    nombre: "Papas Gajo",
+    descripcion: "Doraditos gajos de papa con corteza servidos con aderezo ranch.",
+    precio: " 94",
+    imagen: "/img/papas-gajo.jpg",
+    observaciones: "(270gr)"
+  },
+  {
+    categoria: "snacks",
     nombre: "Vegetales",
-    descripcion: "Bastones de apio y zanahoria acompañados con ederezo ranch.",
+    descripcion: "Bastones de apio y zanahoria acompañados con aderezo ranch.",
     precio: " 57",
     imagen: "/img/vegetales.jpg",
     observaciones: "(200gr)"
@@ -58,7 +66,7 @@ const menuItems = [
   {
     categoria: "especiales",
     nombre: "Dedos de queso",
-    descripcion: "Palitosd e queso mozzarella empanizados con especias",
+    descripcion: "Palitos de queso mozzarella empanizados con especias",
     precio: " 129",
     imagen: "/img/dedos.jpg",
     observaciones: "(6pz)"
@@ -187,7 +195,7 @@ const menuItems = [
     categoria: "ensalada",
     nombre: "Pechuga a la plancha",
     descripcion: "",
-    precio: " 145",
+    precio: " 149",
     imagen: "",
     observaciones: "(100gr)"
   },
@@ -201,7 +209,7 @@ const menuItems = [
   },
   {
     categoria: "nuevo",
-    nombre: "Atascadón",
+    nombre: "Atascadín",
     descripcion: "Boneless(130gr) + Alitas(270gr) + Dedos de queso(2pz) + Aros de cebolla(2pz) + Papas a la francesa sazonadas(130gr) elige tus salsas favoritas. Acompañado con ranch.",
     precio: " 219",
     imagen: "",
@@ -218,13 +226,13 @@ const menuItems = [
   {
     categoria: "nuevo",
     nombre: "Santo Combo",
-    descripcion: "Hambuerguesa de res + Papas a la francesa(130gr) + Ampolleta o refresco.",
+    descripcion: "Hamburguesa de res + Papas a la francesa(130gr) + Ampolleta o refresco.",
     precio: " 99",
     imagen: "",
     observaciones: ""
   },
   {
-    categoria: "kids",
+    categoria: "nuevo",
     nombre: "Combo Kid's",
     descripcion: "Hamburguesa de res o Nuggets + Papas a la francesa(130gr) + Jugo(200ml).",
     precio: " 87",
